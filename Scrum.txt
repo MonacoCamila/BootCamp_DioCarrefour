@@ -1,0 +1,100 @@
+Processo de Desenvolvimento do Produto 
+1 - concepcao
+2 - Analise e Design 
+3 - Desenvolvimento
+4 - Testes  
+5 - Implantacao 
+
+Metodologia Agil - Scrum  (Framework de gerenciamento de projetos ageis )
+
+Software construido por partes e cada parte em 
+um ciclo  
+- escopo definido ao longo do projeto 
+- projeto e controlado por funcionalidades entregues  
+- cliente pode ver parte do software funcionando na 
+parte inicial do projeto  
+- Mudancas constantes de acordo com o feedback 
+
+= Maior valor pro cliente / menos custo e desperdicio 
+= Melhor gerenciamento de risco 
+
+PApeis e responsabilidades 
+
+PO = product Owner 
+representante da area de negocios 
+define as funcionalidades do software 
+prioriza funcionalidades 
+garante que o time de desenvolvimento entenda os itens do backlog 
+
+papel do PO na transofrmacao digital 
+- entende a necessidade do cliente e transforma em necessidade de melhora 
+
+
+
+SM = Scrum Master 
+garante o uso correto do scrum 
+ele nao eh gerente de projetos 
+age como facilitador 
+auxilia o po  
+auxilia a equipe a remover impedimentos 
+treina o time em autogerenciamento 
+
+Cerimonias do Scrum 
+
+TimeBox - tempo maximo pra reuniao ou sprint 
+
+Sprint - principal evento do Scrum 
+1 sprint = 30 dias corridos ou menos 
+
+Planejamento da Sprint - todos participam - reuniam de planejamento - leva ate 8 hras 
+TimeBox = 8 hras 
+O que fazer?
+Como fazer? 
+
+Daily Meeting - reunioes em pe - time box 15min 
+to do - doing - done 
+
+Review - time DEV apresenta para o PO todo trabalho feito 
+Time Box 4 hras   
+
+Retrospectiva - Transparencia 
+Time box 3 horas 
+
+Exemplo de metodologia Scrum - NUBANK / IFOOD 
+
+ESTORIAS VS TAREFAS 
+projeto = conjunto dos EPICOS 
+EPICO = objetivo macro   
+
+ESTORIA EH ESCRITA SEMPRE EM NIVEL DE NEGOCIO 
+
+CLIENTE - Stakeholder 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
